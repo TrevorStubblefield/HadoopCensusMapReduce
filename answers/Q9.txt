@@ -1,0 +1,22 @@
+2017-04-11 22:52:08,212 WARN  [main] util.NativeCodeLoader (NativeCodeLoader.java:<clinit>(62)) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Highest Average Owned Tenant Count: 	UT : 3.325196254429899
+Highest Average Owned Tenant Count: 	HI : 3.123666699668075
+Highest Average Owned Tenant Count: 	AK : 2.950325033729915
+Highest Average Owned Tenant Count: 	NJ : 2.860875348313454
+Highest Average Owned Tenant Count: 	NY : 2.84337999027836
+Highest Average Owned Tenant Count: 	TX : 2.834520170549496
+Highest Average Owned Tenant Count: 	NM : 2.8287759758446844
+Highest Average Owned Tenant Count: 	MA : 2.8134154666979097
+Highest Average Owned Tenant Count: 	LA : 2.813209382550594
+Highest Average Owned Tenant Count: 	CA : 2.810139275708125
+	
+Highest Average Rented Tenant Count: 	HI : 2.75543941200808
+Highest Average Rented Tenant Count: 	CA : 2.6898720563597087
+Highest Average Rented Tenant Count: 	UT : 2.6441731759431155
+Highest Average Rented Tenant Count: 	MS : 2.624692536578043
+Highest Average Rented Tenant Count: 	AK : 2.5737042664544294
+Highest Average Rented Tenant Count: 	LA : 2.550446856360614
+Highest Average Rented Tenant Count: 	TX : 2.526466629234008
+Highest Average Rented Tenant Count: 	SC : 2.509519164865292
+Highest Average Rented Tenant Count: 	NM : 2.503094871678812
+Highest Average Rented Tenant Count: 	ID : 2.5014029206678456

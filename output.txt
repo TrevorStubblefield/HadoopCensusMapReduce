@@ -1,0 +1,2 @@
+2017-04-18 19:33:04,514 WARN  [main] util.NativeCodeLoader (NativeCodeLoader.java:<clinit>(62)) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+State With Highest Percentage Of Elderly: 	AK   0.2274367640348118%

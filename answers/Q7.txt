@@ -1,0 +1,2 @@
+2017-04-11 23:39:57,663 WARN  [main] util.NativeCodeLoader (NativeCodeLoader.java:<clinit>(62)) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+95th percentile of the average number of rooms per house across all states: 	5.769784821888139
